@@ -2,12 +2,12 @@
 .page-title {
     font-size: 2.5rem; /* Larger font size for emphasis */
     font-weight: bold; /* Bold text */
-    color: #333; /* Darker text color */
+    color: #ffffff; /* Darker text color */
     text-align: center; /* Center align the text */
     margin-bottom: 20px; /* Space below the heading */
     padding: 10px 20px; /* Padding around the text */
     border-radius: 5px; /* Rounded corners */
-    background-color: #f8f9fa; /* Light background color */
+    background-color: #244b72; /* Light background color */
     border: 2px solid #e0e0e0; /* Border around the heading */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for a subtle 3D effect */
 }
@@ -16,11 +16,11 @@
 .btn-primary {
     background-color: #007bff;
     color: #fff;
-    padding: 10px 15px;
+    padding: 5px 10px;
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 20px;
     display: inline-block;
 }
 
@@ -34,7 +34,7 @@
     padding: 5px 10px;
     border: none;
     border-radius: 5px;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 .btn-danger:hover {
